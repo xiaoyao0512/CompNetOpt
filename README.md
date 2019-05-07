@@ -29,4 +29,4 @@ https://github.com/ysshao/LLVM-Tracer
 https://github.com/gem5/gem5
 
 # Questions
-If you have any concerns or suggestions, please send me (xiaoyao at usc.edu) emails. We would like to see your valuable feedback.
+If you have any concerns or suggestions, feel free to send me (xiaoyao at usc.edu) emails. We would like to see your valuable feedback.
