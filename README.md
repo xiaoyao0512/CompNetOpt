@@ -27,3 +27,6 @@ https://github.com/ysshao/LLVM-Tracer
 
 2. Connect it with gem5 for ease of verification.
 https://github.com/gem5/gem5
+
+# Questions
+If you have any concerns or suggestions, please send me (xiaoyao at usc.edu) emails. We would like to see your valuable feedback.
