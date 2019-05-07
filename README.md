@@ -21,3 +21,6 @@ https://sites.google.com/site/findcommunities/
 # Future Plans
 1. We are thinking to use this tool to generate traces.
 https://github.com/ysshao/LLVM-Tracer
+
+2. Connect it with gem5 for ease of verification.
+https://github.com/gem5/gem5
