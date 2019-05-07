@@ -2,7 +2,7 @@
 Code I have used in the paper "A Load Balancing Inspired Optimization Framework for Exascale Multicore Systems: A Complex Networks Approach"
 
 # Tutorials: 
-TBD
+(TP_C.pl or TP_C++.pl are scripts to automate the whole profiling process.)
 
 # Further Modifications:
 1. We removed the constraints of pipeline parallelism. Now, this framework can be applied to all high level C/C++ code.
