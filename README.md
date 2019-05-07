@@ -17,3 +17,7 @@ We used the following code in the original paper.
 https://www.cs.unm.edu/~aaron/research/fastmodularity.htm
 Later, we found out that this code performed better.
 https://sites.google.com/site/findcommunities/
+
+# Future Plans
+1. We are thinking to use this tool to generate traces.
+https://github.com/ysshao/LLVM-Tracer
