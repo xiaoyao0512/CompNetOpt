@@ -14,9 +14,6 @@ https://github.com/bprail/contech
 
 2. Modularity based community detection.
 We used the following code in the original paper.
-
 https://www.cs.unm.edu/~aaron/research/fastmodularity.htm
-
 Later, we found out that this code performed better.
-
 https://sites.google.com/site/findcommunities/
