@@ -1,0 +1,90 @@
+Performing C SOURCE FILE Test C_SUPPORTS_WERROR_DATE_TIME failed with the following output:
+Change Dir: /home/frankz/again/contech.git/trunk/llvm-contech/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c745d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c745d.dir/build.make CMakeFiles/cmTC_c745d.dir/build
+make[1]: Entering directory `/home/frankz/again/contech.git/trunk/llvm-contech/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c745d.dir/src.c.o
+/usr/bin/cc    -fPIC -DC_SUPPORTS_WERROR_DATE_TIME   -Werror -Werror=date-time -o CMakeFiles/cmTC_c745d.dir/src.c.o   -c /home/frankz/again/contech.git/trunk/llvm-contech/CMakeFiles/CMakeTmp/src.c
+cc1: error: -Werror=date-time: no option -Wdate-time
+make[1]: Leaving directory `/home/frankz/again/contech.git/trunk/llvm-contech/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTC_c745d.dir/src.c.o] Error 1
+make: *** [cmTC_c745d/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_WERROR_DATE_TIME failed with the following output:
+Change Dir: /home/frankz/again/contech.git/trunk/llvm-contech/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_326a5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_326a5.dir/build.make CMakeFiles/cmTC_326a5.dir/build
+make[1]: Entering directory `/home/frankz/again/contech.git/trunk/llvm-contech/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_326a5.dir/src.cxx.o
+/usr/bin/c++     -std=c++11 -fPIC -fvisibility-inlines-hidden -DCXX_SUPPORTS_WERROR_DATE_TIME   -Werror -Werror=date-time -o CMakeFiles/cmTC_326a5.dir/src.cxx.o -c /home/frankz/again/contech.git/trunk/llvm-contech/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: error: -Werror=date-time: no option -Wdate-time
+make[1]: Leaving directory `/home/frankz/again/contech.git/trunk/llvm-contech/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTC_326a5.dir/src.cxx.o] Error 1
+make: *** [cmTC_326a5/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_SUPPORTS_WERROR_DATE_TIME failed with the following output:
+Change Dir: /Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_238bc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_238bc.dir/build.make CMakeFiles/cmTC_238bc.dir/build
+make[1]: Entering directory `/Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_238bc.dir/src.c.o
+/usr/bin/cc    -fPIC -DC_SUPPORTS_WERROR_DATE_TIME   -Werror -Werror=date-time -o CMakeFiles/cmTC_238bc.dir/src.c.o   -c /Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp/src.c
+cc1: error: -Werror=date-time: no option -Wdate-time
+make[1]: Leaving directory `/Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTC_238bc.dir/src.c.o] Error 1
+make: *** [cmTC_238bc/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_WERROR_DATE_TIME failed with the following output:
+Change Dir: /Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9735e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9735e.dir/build.make CMakeFiles/cmTC_9735e.dir/build
+make[1]: Entering directory `/Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9735e.dir/src.cxx.o
+/usr/bin/c++     -std=c++11 -fPIC -fvisibility-inlines-hidden -DCXX_SUPPORTS_WERROR_DATE_TIME   -Werror -Werror=date-time -o CMakeFiles/cmTC_9735e.dir/src.cxx.o -c /Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: error: -Werror=date-time: no option -Wdate-time
+make[1]: Leaving directory `/Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTC_9735e.dir/src.cxx.o] Error 1
+make: *** [cmTC_9735e/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_SUPPORTS_WERROR_DATE_TIME failed with the following output:
+Change Dir: /Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6cd0d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6cd0d.dir/build.make CMakeFiles/cmTC_6cd0d.dir/build
+make[1]: Entering directory `/Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6cd0d.dir/src.c.o
+/usr/bin/cc    -fPIC -DC_SUPPORTS_WERROR_DATE_TIME   -Werror -Werror=date-time -o CMakeFiles/cmTC_6cd0d.dir/src.c.o   -c /Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp/src.c
+cc1: error: -Werror=date-time: no option -Wdate-time
+make[1]: Leaving directory `/Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTC_6cd0d.dir/src.c.o] Error 1
+make: *** [cmTC_6cd0d/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_WERROR_DATE_TIME failed with the following output:
+Change Dir: /Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d5597/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d5597.dir/build.make CMakeFiles/cmTC_d5597.dir/build
+make[1]: Entering directory `/Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d5597.dir/src.cxx.o
+/usr/bin/c++     -std=c++11 -fPIC -fvisibility-inlines-hidden -DCXX_SUPPORTS_WERROR_DATE_TIME   -Werror -Werror=date-time -o CMakeFiles/cmTC_d5597.dir/src.cxx.o -c /Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: error: -Werror=date-time: no option -Wdate-time
+make[1]: Leaving directory `/Simulator/TraceGeneration/llvm-contech/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTC_d5597.dir/src.cxx.o] Error 1
+make: *** [cmTC_d5597/fast] Error 2
+
+Source file was:
+int main() { return 0; }
