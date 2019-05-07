@@ -18,6 +18,9 @@ https://www.cs.unm.edu/~aaron/research/fastmodularity.htm
 Later, we found out that this code performed better.
 https://sites.google.com/site/findcommunities/
 
+# Near-term Plans:
+1. Make the code clean and add comments.
+
 # Future Plans
 1. We are thinking to use this tool to generate traces.
 https://github.com/ysshao/LLVM-Tracer
