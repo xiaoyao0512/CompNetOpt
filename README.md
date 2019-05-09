@@ -3,6 +3,9 @@ Code I have used in the paper "A Load Balancing Inspired Optimization Framework 
 
 # Tutorials: 
 (TP_C.pl or TP_C++.pl are scripts to automate the whole profiling process. We highly suggest to use TP_C.pl due to C++ name mangling.)
+Documents contains LLVM installation guide and tool tutorials.
+- LLVM 3.5.2 Installation Guide if you want to use LLVM-Tracer;
+- LLVM 3.8.1 Installation Guide if you want to use Contech;
 
 # Further Modifications:
 1. We removed the constraints of pipeline parallelism. Now, this framework can be applied to all high level C/C++ code.
